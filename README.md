@@ -1,6 +1,6 @@
-# Finding Denser Subgraphs and Larger Cuts with Local Improvements
+# OptiRefine: Finding denser subgraphs and larger cuts using few refinements
 
-This repository contains the code used in our paper titled "Finding Denser Subgraphs and Larger Cuts with Local Improvements". The algorithms are designed to find larger graph cuts and denser subgraphs through a local improvement framework.
+This repository contains the code used in our paper titled "OptiRefine: Finding denser subgraphs and larger cuts using few refinements". The algorithms are designed to find larger graph cuts and denser subgraphs through a local improvement framework.
 
 ## Table of Contents
 
