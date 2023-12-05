@@ -4,7 +4,7 @@ This repository contains the code used in our paper titled "OptiRefine: Finding 
 
 ## Table of Contents
 
-- [Finding Denser Subgraphs and Larger Cuts with Local Improvements](#finding-denser-subgraphs-and-larger-cuts-with-local-improvements)
+- [OptiRefine: Finding denser subgraphs and larger cuts using few refinements](#OptiRefine: Finding denser subgraphs and larger cuts using few refinements)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Installation](#installation)
