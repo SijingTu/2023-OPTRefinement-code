@@ -1,10 +1,10 @@
-# OptiRefine: Finding denser subgraphs and larger cuts using few refinements
+# OptiRefine: Densest subgraphs and maximum cuts with $k$ refinement
 
 This repository contains the code used in our paper titled "OptiRefine: Finding denser subgraphs and larger cuts using few refinements". The algorithms are designed to find larger graph cuts and denser subgraphs through a local improvement framework.
 
 ## Table of Contents
 
-- [OptiRefine: Finding denser subgraphs and larger cuts using few refinements](#OptiRefine)
+- [OptiRefine: Densest subgraphs and maximum cuts with $k$ refinement](#OptiRefine)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Installation](#installation)
