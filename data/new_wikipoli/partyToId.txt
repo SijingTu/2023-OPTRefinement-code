@@ -1,0 +1,10 @@
+2#CDU/CSU
+-2#SPD
+1#Conservative Party (UK)
+-1#Labour Party (UK)
+3#Austrian People's Party politicians
+-3#Social Democratic Party of Austria politicians
+4#Spanish Socialist Workers' Party politicians
+-4#People's Party (Spain) politicians
+5#Democrats
+-5#Republicans
