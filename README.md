@@ -29,7 +29,8 @@ To use the code, you'll need a valid license for [Mosek](https://www.mosek.com/)
 
 ## Datasets
 
-The repository we demonstrate how to run our codes in synthetic datasets. Running on other datasets are possible with minor changes in the initialization steps in the code.
+We demonstrate how to run our codes in synthetic datasets in the repository. Minor changes in the initialization steps in the code make running on other datasets possible.
+The Wikipedia politician page networks are stored under the folder `data/new_wikipoli.`
 
 ## Usage
 
